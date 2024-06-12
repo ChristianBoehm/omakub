@@ -1,5 +1,6 @@
-# Omakub-modified-for-browser
+# ATTENTION! it's WIP -- don't use this only if you want give it a try #
 
+# Omakub-modified-for-browser
 This Repo contains mods for selecting your desired browser engine (chrome, chromium, firefox). 
 
 # Omakub
