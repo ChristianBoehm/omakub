@@ -23,6 +23,7 @@ desktop_dirs=(
 	"/usr/share/applications"
 	"/usr/local/share/applications"
 	"$HOME/.local/share/applications"
+	"/var/lib/snapd/desktop/applications"
 )
 
 # Check if a .desktop file exists for each app
